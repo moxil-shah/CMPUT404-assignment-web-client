@@ -1,7 +1,7 @@
 CMPUT404-assignment-web-client
 ==============================
 
-CMPUT404-assignment-web-client
+CMPUT404-assignment-web-client (Moxil Shah)
 
 See requirements.org (plain-text) for a description of the project.
 
